@@ -1,0 +1,1 @@
+Compressed google-closure-compiler-linux binary by upx. (https://github.com/google/closure-compiler-npm/tree/master/packages/google-closure-compiler-linux)
