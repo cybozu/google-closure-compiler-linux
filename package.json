@@ -1,6 +1,6 @@
 {
   "name": "@cybozu/google-closure-compiler-linux",
-  "version": "20220104.0.0",
+  "version": "20220202.0.0",
   "description": "Compressed google-closure-compiler-linux binary by upx. (https://github.com/google/closure-compiler-npm/tree/master/packages/google-closure-compiler-linux)",
   "main": "index.js",
   "repository": "https://github.com/cybozu/google-closure-compiler-linux",
